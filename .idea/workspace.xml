@@ -1,7 +1,698 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddf2e700-c3ae-4e8c-8c75-8030c5b3b0a5" name="Default" comment="" />
+    <list default="true" id="ddf2e700-c3ae-4e8c-8c75-8030c5b3b0a5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/01-refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/02-redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/03-loopback.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/04-squiggle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/05-shuffle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/06-magnify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/07-map-marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/08-chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/09-chat-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/09-chat-2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/10-medical.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/100-coffee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/101-gameplan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/102-walk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/103-map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/104-index-cards.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/105-piano.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/106-sliders.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/107-widescreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/108-badge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/109-chicken.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/11-clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/11-clock@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/110-bug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/111-user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/112-group.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/113-navigation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/114-balloon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/115-bow-and-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/116-controller.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/117-todo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/118-coat-hanger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/119-piggy-bank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/12-eye.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/120-headphones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/121-landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/122-stats.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/123-id-card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/124-bullhorn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/125-food.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/126-moon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/127-sock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/128-bone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/129-golf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/13-target.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/130-dice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/131-tower.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/132-ghost.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/133-ufo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/134-viking.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/135-hockeymask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/136-tractor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/137-presentation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/138-scales.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/139-flags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/14-tag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/140-gradhat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/141-lamp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/142-wine-bottle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/143-liquor-bottle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/144-martini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/145-persondot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/146-gavel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/147-popsicle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/148-doghouse.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/149-windmill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/15-tags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/150-sailboat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/151-telescope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/152-rolodex.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/153-guitar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/154-necktie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/155-bowtie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/156-controlpad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/157-wrench.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/158-wrench-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/159-voicemail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/16-line-chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/160-voicemail-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/161-calculator.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/162-receipt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/163-glasses-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/164-glasses-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/165-glasses-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/166-newspaper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/167-upload-photo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/168-upload-photo-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/169-8ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/17-bar-chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/170-butterfly.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/171-sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/172-pricetag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/173-eyedropper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/174-imac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/175-macbook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/176-ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/177-building.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/178-city.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/179-notepad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/18-envelope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/180-stickynote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/181-hammer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/182-messenger-bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/183-genie-lamp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/184-warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/185-printer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/186-ruler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/187-pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/188-paint-roller.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/189-plant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/19-gear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/190-bank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/191-collection.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/192-credit-card.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/193-location-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/194-note-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/195-barcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/196-radiation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/197-card-diamonds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/198-card-spades.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/199-card-hearts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/20-gear2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/200-card-clubs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/21-skull.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/22-skull-n-bones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/23-bird.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/24-gift.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/25-weather.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/26-bandaid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/27-planet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/28-star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/29-heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/30-key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/301-alien-ship.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/301-alien-ship@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/302-swords.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/302-swords@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/303-fire-hydrant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/303-fire-hydrant@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/304-adjustments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/304-adjustments@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/305-palm-tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/305-palm-tree@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/306-light-switch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/306-light-switch@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/307-atom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/307-atom@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/308-steering-wheel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/308-steering-wheel@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/309-thumbtack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/309-thumbtack@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/31-ipod.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/310-alarm-clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/310-alarm-clock@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/311-waypoint-flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/311-waypoint-flag@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/312-waypoint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/312-waypoint@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/313-waypoint2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/313-waypoint2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/314-move-point.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/314-move-point@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/315-forklift.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/315-forklift@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/316-truck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/316-truck@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/317-handtruck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/317-handtruck@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/318-pushcart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/318-pushcart@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/319-shipping-crate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/319-shipping-crate@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/32-iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/320-shipping-container.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/320-shipping-container@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/321-like.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/321-like@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/322-dislike.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/322-dislike@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/326-passbook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/326-passbook@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/328-layers2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/328-layers2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/329-layers1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/329-layers1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/329-layers3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/329-layers3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/33-cabinet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/330-layers4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/330-layers4@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/331-download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/331-download@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/332-rotate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/332-rotate@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/333-backintime.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/333-backintime@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/333-satellite-dish.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/333-satellite-dish@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/334-backintime2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/334-backintime2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/334-podium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/334-podium@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/335-jump24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/335-jump24@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/335-magic-wand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/335-magic-wand@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/336-reloop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/336-reloop@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/336-skip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/336-skip@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/337-flip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/337-flip@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/338-enter-fullscreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/338-enter-fullscreen@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/339-exit-fullscreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/339-exit-fullscreen@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/34-coffee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/341-keyboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/341-keyboard@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/342-delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/342-delete@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/343-scribble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/343-scribble@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/344-paintbrush.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/344-paintbrush@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/345-scissors.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/345-scissors@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/346-pentool.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/346-pentool@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/347-vectorpath.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/347-vectorpath@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/348-bold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/348-bold@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/349-italic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/349-italic@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/35-shopping.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/350-text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/350-text@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/351-bankers-box.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/351-bankers-box@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/352-jersey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/352-jersey@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/353-director-chair.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/353-director-chair@2x kopio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/353-director-chair@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/354-newspaper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/354-newspaper@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/355-equalizer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/355-equalizer@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/356-signpost.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/356-signpost@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/357-store.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/357-store@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/358-slingshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/358-slingshot@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/359-binoculars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/359-binoculars@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/36-toolbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/360-terminal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/360-terminal@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/361-1up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/361-1up@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/362-2up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/362-2up@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/363-3up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/363-3up@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/364-4up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/364-4up@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/365-code-fork.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/365-code-fork@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/366-code-merge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/366-code-merge@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/367-code-tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/367-code-tree@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/368-code-sync.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/368-code-sync@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/369-code-fork2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/369-code-fork2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/37-suitcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/370-code-merge2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/370-code-merge2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/371-baseball-diamond.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/371-baseball-diamond@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/372-baseball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/372-baseball@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/373-football.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/373-football@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/374-basketball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/374-basketball@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/375-soccer-ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/375-soccer-ball@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/376-tennis-ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/376-tennis-ball@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/377-bowling-ball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/377-bowling-ball@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/378-ping-pong.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/378-ping-pong@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/379-barbell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/379-barbell@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/38-airplane.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/380-boxing-glove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/380-boxing-glove@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/381-locked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/381-locked@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/382-unlocked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/382-unlocked@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/383-keyhole.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/383-keyhole@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/384-dollar-currency.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/384-dollar-currency@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/385-mountain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/385-mountain@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/386-server-rack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/386-server-rack@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/387-bookmarks.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/387-bookmarks@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/388-airplay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/388-airplay@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/389-flash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/389-flash@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/39-spraycan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/390-coverflow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/390-coverflow@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/391-sailboat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/391-sailboat@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/392-viking-ship.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/392-viking-ship@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/393-sofa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/393-sofa@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/394-bank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/394-bank@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/395-navigation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/395-navigation@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/396-power-plug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/396-power-plug@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/397-self-timer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/397-self-timer@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/398-bubble-level.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/398-bubble-level@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/399-list1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/399-list1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/40-inbox kopio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/40-inbox kopio.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/40-inbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/400-list2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/400-list2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/401-globe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/401-globe@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/402-globe2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/402-globe2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/403-coffee-mug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/403-coffee-mug@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/404-microscope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/404-microscope@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/405-test-tube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/405-test-tube@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/406-flask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/406-flask@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/407-ruler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/407-ruler@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/408-screen-sharing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/408-screen-sharing@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/409-briefcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/409-briefcase@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/41-picture-frame.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/410-page.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/410-page@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/411-roundabout.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/411-roundabout@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/412-camper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/412-camper@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/413-tent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/413-tent@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/414-paper-shredder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/414-paper-shredder@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/415-weightlifter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/415-weightlifter@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/416-chefs-hat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/416-chefs-hat@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/417-ice-cream-cone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/417-ice-cream-cone@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/418-bread.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/418-bread@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/419-scale.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/419-scale@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/42-photos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/420-pacifier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/420-pacifier@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/421-sort-a-to-z.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/421-sort-a-to-z@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/422-sort-z-to-a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/422-sort-z-to-a@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/423-sort-ascending.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/423-sort-ascending@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/424-sort-descending.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/424-sort-descending@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/425-notepad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/425-notepad@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/426-calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/426-calendar@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/427-todo-list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/427-todo-list@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/428-checkmark1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/428-checkmark1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/429-checkmark2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/429-checkmark2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/43-film-roll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/430-checkmark3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/430-checkmark3@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/431-yes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/431-yes@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/432-no.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/432-no@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/433-x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/433-x@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/434-o.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/434-o@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/435-bounce.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/435-bounce@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/436-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/436-plus@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/437-minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/437-minus@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/438-equals.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/438-equals@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/439-left-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/439-left-right@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/44-shoebox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/440-up-down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/440-up-down@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/441-help-symbol1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/441-help-symbol1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/442-information-symbol1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/442-information-symbol1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/443-dollars1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/443-dollars1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/444-pounds1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/444-pounds1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/445-euros1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/445-euros1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/446-yen1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/446-yen1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/447-hd1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/447-hd1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/448-sd1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/448-sd1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/449-sdk1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/449-sdk1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/45-movie-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/450-api1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/450-api1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/451-help-symbol2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/451-help-symbol2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/452-information-symbol2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/452-information-symbol2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/453-dollars2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/453-dollars2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/454-pounds2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/454-pounds2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/455-euros2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/455-euros2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/456-yen2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/456-yen2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/457-hd2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/457-hd2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/458-sd2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/458-sd2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/459-sdk2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/459-sdk2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/46-movie-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/460-api2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/460-api2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/461-play1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/461-play1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/462-pause1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/462-pause1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/463-stop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/463-stop@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/464-record1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/464-record1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/465-rewind1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/465-rewind1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/466-fast-forward1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/466-fast-forward1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/467-skip-backward1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/467-skip-backward1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/468-skip-forward.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/468-skip-forward@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/469-slowmo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/469-slowmo1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/47-fuel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/470-eject1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/470-eject1@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/471-play2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/471-play2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/472-pause2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/472-pause2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/473-stop2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/473-stop2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/474-record2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/474-record2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/475-rewind2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/475-rewind2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/476-fast-forward2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/476-fast-forward2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/477-skip-backward2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/477-skip-backward2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/478-skip-forward2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/478-skip-forward2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/479-slowmo2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/479-slowmo2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/48-fork-and-knife.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/480-eject2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/480-eject2@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/481-amazon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/481-amazon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/482-audioscrobbler.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/482-audioscrobbler@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/483-bing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/483-bing@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/484-dribbble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/484-dribbble@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/485-facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/485-facebook@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/486-fancy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/486-fancy@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/487-foursquare.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/487-foursquare@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/488-github.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/488-github@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/489-gmail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/489-gmail@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/49-battery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/490-google-plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/490-google-plus@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/491-icloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/491-icloud@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/492-instagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/492-instagram@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/493-itunes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/493-itunes@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/494-linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/494-linkedin@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/495-paypal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/495-paypal@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/496-pinterest.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/496-pinterest@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/497-reddit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/497-reddit@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/498-twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/498-twitter@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/499-windows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/499-windows@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/50-beaker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/500-yahoo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/500-yahoo@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/51-outlet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/52-pine-tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/53-house.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/54-lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/55-network.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/56-cloud.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/57-download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/58-bookmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/59-flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/60-signpost.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/61-brightness.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/62-contrast.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/63-runner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/64-zap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/65-note.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/66-microphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/67-tshirt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/68-paperclip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/69-display.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/70-tv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/71-compass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/72-pin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/73-radar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/73-radar@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/74-location.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/75-phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/76-baby.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/77-ekg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/78-stopwatch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/79-medical-bag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/80-shopping-cart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/81-dashboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/82-dog-paw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/83-calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/84-lightbulb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/85-trophy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/86-camera.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/87-wine-glass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/88-beer-mug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/89-dumbell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/90-life-buoy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/91-beaker-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/92-test-tube.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/93-thermometer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/94-pill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/95-equalizer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/96-book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/97-puzzle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/98-palette.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/99-umbrella.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/check.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/check1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/clock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/clock_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/facebook1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/house_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/house_report_icons.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/kello.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/puhekupla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/report_checkmark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/report_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/sketch_icons.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/sketch_icons2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/sketch_icons3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/sketch_icons4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/sketch_icons5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/sketch_web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/sketch_web_v2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/sketch_web_v2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/talking_bubble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/icons/twitter1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/ae.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/andreas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/andreas1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/arcticstartup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/blur2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/blurpad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/family.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/irishtimes.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/irishtimes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/kk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/kk1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/logo1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/perhe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/product.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/product1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/signal.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/signal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/sunday.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/sunday.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/tausta.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/uk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/uk1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/uk2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/vs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/wifiukko.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/wipad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/woman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/woman1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/woman2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/woman3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/woman4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/woman5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/woman6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/woman7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/wopad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/img/wopad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/family.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/indexfamily.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/stylesheets/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/stylesheets/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/stylesheets/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/stylesheets/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/stylesheets/homes.css.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlrightBud/public/stylesheets/scaffolds.css.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/AlrightBud.iml" afterPath="$PROJECT_DIR$/.idea/AlrightBud.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlrightBud/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/AlrightBud/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlrightBud/app/views/layouts/index.html" afterPath="$PROJECT_DIR$/AlrightBud/app/views/layouts/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlrightBud/app/views/layouts/indexfamily.html" afterPath="$PROJECT_DIR$/AlrightBud/app/views/layouts/indexfamily.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlrightBud/config/routes.rb" afterPath="$PROJECT_DIR$/AlrightBud/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlrightBud/db/schema.rb" afterPath="$PROJECT_DIR$/AlrightBud/db/schema.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlrightBud/public/index.html" afterPath="$PROJECT_DIR$/AlrightBud/public/index.html" />
+    </list>
     <ignored path="AlrightBud.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,12 +704,76 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AlrightBud" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlrightBud/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="20" selection-start="1507" selection-end="1507" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="indexfamily.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AlrightBud/public/indexfamily.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="32" selection-start="591" selection-end="591" vertical-scroll-proportion="0.43430656">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlrightBud/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="98" column="9" selection-start="2601" selection-end="2602" vertical-scroll-proportion="-3.4117646">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="family.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlrightBud/public/family.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="45" selection-start="409" selection-end="409" vertical-scroll-proportion="-7.8461537">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
+    <option name="UPDATE_CHANGES_POLICY" value="STASH" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/AlrightBud/app/views/homes/index.html.erb" />
+        <option value="$PROJECT_DIR$/AlrightBud/app/views/layouts/index.html" />
+        <option value="$PROJECT_DIR$/AlrightBud/app/views/layouts/indexfamily.html" />
+        <option value="$PROJECT_DIR$/AlrightBud/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/AlrightBud/config/routes.rb" />
+        <option value="$PROJECT_DIR$/AlrightBud/public/indexfamily.html" />
+        <option value="$PROJECT_DIR$/AlrightBud/public/index.html" />
+        <option value="$PROJECT_DIR$/AlrightBud/public/family.html" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -52,7 +807,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -120,6 +875,10 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -136,10 +895,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -162,10 +917,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -217,21 +968,155 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlrightBud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlrightBud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlrightBud" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marie\Documents\GitHub\AlrightBud\AlrightBud\public" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="ANSICON" value="" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_CLASS_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="INHERITANCE_CHECK_DISABLED" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ddf2e700-c3ae-4e8c-8c75-8030c5b3b0a5" name="Default" comment="" />
@@ -241,23 +1126,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25342464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24851191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -285,19 +1171,12 @@
     <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
     <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
-    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
-    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
-    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
-    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -314,6 +1193,118 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AlrightBud/app/assets/javascripts/homes.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/app/assets/stylesheets/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="52" selection-start="326" selection-end="326" vertical-scroll-proportion="0.41827768">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="34" selection-start="323" selection-end="323" vertical-scroll-proportion="-7.1923075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/app/views/layouts/indexfamily.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="21" selection-start="461" selection-end="461" vertical-scroll-proportion="-8.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/app/views/homes/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="144" column="20" selection-start="3453" selection-end="3453" vertical-scroll-proportion="4.618868">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="20" selection-start="1507" selection-end="1507" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/app/views/layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="29" selection-start="332" selection-end="332" vertical-scroll-proportion="0.34124088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/public/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="60" selection-start="189" selection-end="189" vertical-scroll-proportion="0.08688245">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/public/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="50" selection-start="1136" selection-end="1136" vertical-scroll-proportion="0.4458042">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/public/icons/talking_bubble.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/public/family.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="45" selection-start="409" selection-end="409" vertical-scroll-proportion="-7.8461537">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="9" selection-start="2601" selection-end="2602" vertical-scroll-proportion="-3.4117646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlrightBud/public/indexfamily.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="32" selection-start="591" selection-end="591" vertical-scroll-proportion="0.43430656">
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 
